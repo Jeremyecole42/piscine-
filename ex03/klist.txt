@@ -1,0 +1,6 @@
+Credentials cache: API:C64C646D-923A-47F2-A0B6-2779A165290E
+        Principal: jbarbeza@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  5 17:40:27 2021  Jul  6 03:40:27 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Jul  5 17:40:29 2021  Jul  6 03:40:27 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
